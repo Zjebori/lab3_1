@@ -1,0 +1,13 @@
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\bin\Debug\netcoreapp3.1\Assetment.exe
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\bin\Debug\netcoreapp3.1\Assetment.deps.json
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\bin\Debug\netcoreapp3.1\Assetment.runtimeconfig.json
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\bin\Debug\netcoreapp3.1\Assetment.runtimeconfig.dev.json
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\bin\Debug\netcoreapp3.1\Assetment.dll
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\bin\Debug\netcoreapp3.1\Assetment.pdb
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.csproj.AssemblyReference.cache
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.AssemblyInfoInputs.cache
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.AssemblyInfo.cs
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.csproj.CoreCompileInputs.cache
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.dll
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.pdb
+C:\Users\Zaljebori\source\repos\Assetment\Assetment\obj\Debug\netcoreapp3.1\Assetment.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.csproj.AssemblyReference.cache
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.AssemblyInfoInputs.cache
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.AssemblyInfo.cs
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.csproj.CoreCompileInputs.cache
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\bin\Debug\netcoreapp3.1\week3day1.exe
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\bin\Debug\netcoreapp3.1\week3day1.deps.json
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\bin\Debug\netcoreapp3.1\week3day1.runtimeconfig.json
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\bin\Debug\netcoreapp3.1\week3day1.runtimeconfig.dev.json
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\bin\Debug\netcoreapp3.1\week3day1.dll
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\bin\Debug\netcoreapp3.1\week3day1.pdb
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.dll
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.pdb
+C:\Users\Zaljebori\source\repos\Assetment\week3day1\week3day1\obj\Debug\netcoreapp3.1\week3day1.genruntimeconfig.cache
